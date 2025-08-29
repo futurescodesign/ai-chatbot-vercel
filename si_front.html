@@ -2117,7 +2117,7 @@ console.log(`📎 發送 ${attachments.length} 個附件到後端`);
 }
 
 // 發送到Vercel後端
-const response = await fetch('/api/chat', {
+const response = await fetch('https://ai0826.vercel.app/api/chat', {
 method: 'POST',
 headers: {
 'Content-Type': 'application/json',
