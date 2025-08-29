@@ -70,4 +70,4 @@ export default async function handler(req) {
     });
   }
 }
-   } // Force Vercel redeploy
+   } // Force Vercel redeploy - CORS fix
