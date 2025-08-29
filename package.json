@@ -1,0 +1,14 @@
+{
+  "name": "ai-chatbot-vercel",
+  "version": "1.0.0",
+  "description": "AI Chatbot with Vercel Functions",
+  "main": "index.js",
+  "scripts": {
+    "vercel-build": "echo 'Build completed'"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
